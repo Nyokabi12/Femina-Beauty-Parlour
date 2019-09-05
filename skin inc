@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width"></meta>
+        <title>Skin Inc.</title>
+        <link rel="stylesheet" type="text/css" href="styles.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    </head>
+    <body>
+        <div class="container">
+            <div>
+                <nav>
+                    <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="aboutus.html">About us</a></li>
+                    <li><a href="service.html">Services</a></li>
+                    <li><a href="contact.html">Contacts</a></li>
+                </ul>
+                </nav>
+            </div>
+            <div id="logo">
+                <img src="https://logo.clearbit.com/skininc.com"></div>
+
+            <h1>CUSTOM BEAUTY FOR EVERY YOU.</h1>          
+            <div class="slogan">
+                <h2>About Skin Inc</h2>
+                <h3><em>"Gender Beauty Matters"</em></h3>
+            </div>
+            <div id="style">
+                <img style1="border-radius:20px 25px 25px 30px;" src="http://mytheresa-myedit.co.uk/wp-content/uploads/2019/05/Screen-Shot-2019-05-09-at-00.33.10.png" height="150px">
+                <p>Skin Inc is a cosmetic brand that strives to enhance skin's natural beauty.Over the years, we’ve become one of the largest beauty brands in the world, reaching nearly four million beautiful people.No matter skin tone or budget, you can come to Skin Inc and feel like you are being seen and represented. Beauty isn’t one-size-fits-all, but unique to every individual and deeply personal. And since it’s as much about how you feel on the inside as it is about what you slather on the outside, you’ll find plenty of expert-backed wellness advice here, too.</p>
+            </div>
+            <div id="guru">
+                <h2>Services</h2>
+                <p><strong>Skin checking</strong>:
+                    Before we get to recommend the best SkiN Inc product for your face we mudt first do a skin check to our client so us to know what products suits  their skin.</p>
+                <img style="border-radius: 20px 25px 25px 30px" src="https://static1.bigstockphoto.com/7/7/2/large1500/277862473.jpg" height="200px">
+            </div>
+            <div>
+                <p><strong>Light therapy and Facial</strong>:
+                    Facials and skin therapy can remove blemishes and pimples, giving your skin a healthier look. ... Moisturizing the skin helps it feel better, but steaming can open up the pores, and exfoliating can get rid of any gunk that may clogging those pores. These processes help clear up the skin to look its bes</p>
+                <img style="border-radius: 20px 25px 25px 30px" src="https://www.cheatsheet.com/wp-content/uploads/2017/01/Skin-Care.-Face-Beauty-Treatment.-IPL.-Photo-Facial-Therapy.jpg" height="200px">
+            </div>
+            <div>
+                <p><strong>Waxing</strong>;
+                    One of the best benefits of waxing is that your skin will feel smooth and even. Waxing removes unwanted hair completely, from its roots.</p>
+                <img style="border-radius: 20px 25px 25px 30px" src="https://spadaspa.com/wp-content/uploads/2014/11/waxing-480401272-960-2-960x540.jpg" height="200px">
+            </div>
+            <div>
+                <p><strong>Makeup</strong>:
+                    We also do makeup with our products to our customers...from lipstick,eyelashes,foundation.</p>
+                <img style="border-radius: 20px 25px 25px 30px" src="http://madge-wallace.co.za/wp-content/uploads/2016/04/Make-Up-Dark-skin.jpg">
+            </div>
+        </div>
+        <h4>Below is a table of the products we sell and their price range depending on the quantity:</h4>
+        <table id="oil">
+            <tr>
+                <th>Images</th>
+                <th>Name of product</th>
+                <th>Price</th>
+            </tr>
+            <tr>
+                <td><img src="https://cdn.shopify.com/s/files/1/0021/8837/8158/products/500_oxy.recharge.bubble.mask_500x500.jpg?v=1553674617" height="150px"></td>  
+                <th>Moisturizer and hydrator.Skin Inc</th>
+                <th>ksh 800</th>
+              </tr>
+              <tr>
+                  <td><img src="https://cdn.shopify.com/s/files/1/0021/8837/8158/products/Tri-light_USB_500x500.png?v=1563414563" height="150px"></td>
+                  <th>Oxy recharge bubble mask</th>
+                  <th>ksh 200</th>
+                </tr>
+            </table>
+        <p><a href="#">Read more</a></p>
+        <footer>
+            <h2>Contact us</h2>
+            <p>For any enquiries you can reach us through:</p>
+            <p>Contact information: <a href="SkinInc@skincare.com">SkinInc@skincare.com</a></p>
+            <p><a href="SkinInc@skincare.com">SkinInc@skincare.com</a></p>
+            <p><a href="+25440699950">+254740699950</a></p>
+        
+            <div class="icons">
+                <i class="fa fa-twitter" aria-hidden="true" style="font-size:80px;color:blue"></i>
+                <i class="fa fa-pinterest-p" aria-hidden="true" style="font-size:80px; color:white"></i>
+                <i class="fa fa-weixin" aria-hidden="true" style="font-size:80px; color:white"></i>
+                <i  class="fa fa-facebook-official" aria-hidden="true" style="font-size:80px; color:blue"></i>
+            </div>
+            </footer>
+        </div>
+        </body>
+        </html>
+        
+             
